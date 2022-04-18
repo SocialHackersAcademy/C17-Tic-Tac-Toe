@@ -15,3 +15,17 @@
   background-color: black;
   border: 1px solid white;
 }
+#restart{
+margin-left: 190px;
+margin-top: 15px;
+padding: 7px;
+font-size: 1.2rem;
+border-radius: 10px;
+border: none;
+background-color: aqua;
+
+}
+.cell{
+  
+  object-fit: cover;
+}
