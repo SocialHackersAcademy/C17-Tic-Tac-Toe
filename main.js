@@ -1,4 +1,4 @@
-let cells = document.querySelectorAll("[data-cell]");
+/*let cells = document.querySelectorAll("[data-cell]");
 
 // this will give each element an event listener
 cells.forEach((cell, i) => {
@@ -82,3 +82,4 @@ function clean() {
 // DRY : don't repeat yorself
 // check for back practice
 // emprove your app
+*/
